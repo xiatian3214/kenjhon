@@ -38,7 +38,7 @@ categories: [机场推荐, 翻墙, 机场, 梯子, 2025, 稳定好用]
 **🔍若不会使用，这里有详细教程[工具指南](/docs/urtlei/tryd/) ，使用过程中遇到问题，请更新订阅或重新导入订阅地址，或者看教程排查[常见问题排查](/docs/2018/geen/)**
 
 ## 🔥 2025年稳定好用机场推荐
-### 1. **99吧** ([官网](https://99bar.pages.dev/)) |
+### 1. **99吧** ([官网](https://99vpn.bar/#/register?code=6JZRbYBR)) |
 **核心亮点：​**
 
 - 🎯 **真·一倍率革命**​​  
@@ -119,7 +119,7 @@ categories: [机场推荐, 翻墙, 机场, 梯子, 2025, 稳定好用]
 
 
 
-### 2. **FlyBit** ([官网](https://goflybit.pages.dev/#/register?code=ckrpv0zT)) | 
+### 2. **FlyBit** ([官网](https://flybit.vip/#/register?code=IbCv2xTd)) |
 **核心亮点：​**
 - 💰 ​**极致性价比**  
   采用IEPL专线与智能中转的混合架构，让您用平民价格享受企业级网络体验（¥0.1/GB起）。
@@ -140,7 +140,7 @@ categories: [机场推荐, 翻墙, 机场, 梯子, 2025, 稳定好用]
 
 
 
-### 3. **小蜜蜂** ([官网](https://linksys360gna.xmfvipaff01.cc/register?aff=xAryDn6F)) |
+### 3. **小蜜蜂** ([官网](https://inva.xmfaff.cc/register?aff=UUelBP2U)) |
 **核心优势：​**
 - 🚀 **顶级网络架构​​**  
   全线路采用 **IPLC物理专线**，提供企业级的私有通道，避免公网波动。
@@ -175,7 +175,7 @@ categories: [机场推荐, 翻墙, 机场, 梯子, 2025, 稳定好用]
   - ✅无视高峰期，秒开8K！不再频繁更新节点。
 
   
-### 5. **青云梯** ([官网](https://ivt01.qytaff.cc/register?aff=EZEbaMhj))
+### 5. **青云梯** ([官网](https://ivt01.qytaff.cc/register?aff=uv0LNxHW))
 **核心优势：​**
 - **🏆 五年稳定运营**  
    自 `2020年11月` 开业至今，拥有零跑路记录，由海外专业团队进行7×24小时维护。
